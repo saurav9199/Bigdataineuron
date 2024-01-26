@@ -1,2 +1,2 @@
 # Bigdataineuron
-I am learning Git and github frm ineuron.
+I am learning Git and github from ineuron.
